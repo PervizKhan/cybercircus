@@ -1,0 +1,15 @@
+/* App.css or specific component CSS */
+.readexRegular {
+  font-family: 'Readex Pro', sans-serif;
+  font-weight: 400; /* Regular */
+}
+
+.readexSemibold {
+  font-family: 'Readex Pro', sans-serif;
+  font-weight: 600; /* Semibold */
+}
+
+.readexBold {
+  font-family: 'Readex Pro', sans-serif;
+  font-weight: 700; /* Bold */
+}
